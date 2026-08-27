@@ -1,34 +1,40 @@
 ManifestFileVersion: 0
-CRC: 3352832594
+CRC: 1839504925
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: menu
+      Name: level_2
       Dependencies: {}
     Info_1:
-      Name: lvl_8
+      Name: level_3
       Dependencies: {}
     Info_2:
-      Name: lvl_9_10
+      Name: level_4_5
       Dependencies: {}
     Info_3:
-      Name: obbyp_geni_
+      Name: legendofspeedscene
       Dependencies: {}
     Info_4:
-      Name: lvl_6
+      Name: obbyscene
       Dependencies: {}
     Info_5:
-      Name: steal monster
+      Name: level_18_20
       Dependencies: {}
     Info_6:
-      Name: lvl_4_5
+      Name: level_6_7
       Dependencies: {}
     Info_7:
-      Name: lvl_2
+      Name: level_12_13
       Dependencies: {}
     Info_8:
-      Name: lvl_7
+      Name: level_14_15
       Dependencies: {}
     Info_9:
-      Name: lvl_3
+      Name: level_8_9
+      Dependencies: {}
+    Info_10:
+      Name: level_16_17
+      Dependencies: {}
+    Info_11:
+      Name: level_10_11
       Dependencies: {}

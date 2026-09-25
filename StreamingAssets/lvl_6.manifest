@@ -1,20 +1,22 @@
 ManifestFileVersion: 0
-CRC: 2697108968
+CRC: 3347593400
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cc1167d28f6e4db2dc550ec6b81e0bcf
+    Hash: 315ff25cdb97d46c4ae3a4cfdb953f5e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b33d7f4aaa24d395b924a36d488eb322
+    Hash: 755e7051e50f8b0be0c4ebd379ea8d11
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: cc1167d28f6e4db2dc550ec6b81e0bcf
+    Hash: 315ff25cdb97d46c4ae3a4cfdb953f5e
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
 - Class: 4
+  Script: {instanceID: 0}
+- Class: 20
   Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
@@ -36,11 +38,13 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 74
   Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
 - Class: 82
   Script: {instanceID: 0}
 - Class: 83
   Script: {instanceID: 0}
-- Class: 89
+- Class: 90
   Script: {instanceID: 0}
 - Class: 91
   Script: {instanceID: 0}
@@ -53,8 +57,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: c9c2d4dd62c2cdd4fb17fafb02c4cab9, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: c300cb70f4b5b03439f410618c93d5b9, type: 3}
@@ -65,35 +67,31 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 49405c2fb6ac5554196ce92b547a5cc8, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 51a4e6349caa40442b21cab3ebd9692a, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 327a00ef051358b45b79053c242ec93e, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: b333ae1776ec1cc4dba161b051f2a6bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de8ddd7749b033546aae905590e89cba, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 015b54e1429e7b545b17ba5a4d9b00a2, type: 3}
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 382af977989141047a7bac589d029829, type: 3}
+  Script: {fileID: 11500000, guid: 015b54e1429e7b545b17ba5a4d9b00a2, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5254fe907c0e5b043a16bec4e03c7691, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 36ca40a4e65fa96479d43819cdd59be9, type: 3}
+  Script: {fileID: 11500000, guid: 198db4c0fadc9df4a874f0cef2dc53c8, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b64da815388bb4349868d58fe3984333, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: c54ac607e2151734bb6759e8191f6d0c, type: 3}
+  Script: {fileID: 11500000, guid: de89b1bdba5d40ff902d858aee2ccdb2, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6fd2e8874f60266498a388d7229a1bac, type: 3}
+  Script: {fileID: 11500000, guid: 91b9d9ff20914024eb3a7b0bd0ac8027, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 29d07920386555b4184e3b21c7364b23, type: 3}
+  Script: {fileID: 11500000, guid: 96815100e8cbb544f8673781e8e46c41, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 33401f8453e0bd5489efdfb9b13ef4c5, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: c46ee024ab7d3f6409e7a356bf78edfa, type: 3}
+  Script: {fileID: 11500000, guid: 7a5ac11cc976e418e8d13136b07e1f52, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
 - Class: 114
@@ -107,22 +105,24 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 756696334c13ef54cb8e6e6e197817e5, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 66a6d1453ce948e43bbd71c555461544, type: 3}
+  Script: {fileID: 11500000, guid: eb69fbbdcad88434cb08a10423d9edd1, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 39393d2dedb67144fa0abb745e0c244c, type: 3}
+  Script: {fileID: 11500000, guid: 6209d0fa789bcb941bd112e1abfe9cde, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66a6d1453ce948e43bbd71c555461544, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 46a4f0b7d33cb3e49bc03796239c7097, type: 3}
 - Class: 115
   Script: {instanceID: 0}
-- Class: 128
+- Class: 137
   Script: {instanceID: 0}
-- Class: 135
-  Script: {instanceID: 0}
-- Class: 136
+- Class: 195
   Script: {instanceID: 0}
 - Class: 198
   Script: {instanceID: 0}
 - Class: 199
+  Script: {instanceID: 0}
+- Class: 208
   Script: {instanceID: 0}
 - Class: 212
   Script: {instanceID: 0}
@@ -140,13 +140,27 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 245
   Script: {instanceID: 0}
-- Class: 687078895
-  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
   ClassName: ClrShop
 - AssemblyName: Assembly-CSharp
   ClassName: CostumeShop
+- AssemblyName: Assembly-CSharp
+  ClassName: Customization.Character
+- AssemblyName: Assembly-CSharp
+  ClassName: Customization.Costumes
+- AssemblyName: Assembly-CSharp
+  ClassName: Customization.Heads
+- AssemblyName: Assembly-CSharp
+  ClassName: Customization.PantsClr
+- AssemblyName: Assembly-CSharp
+  ClassName: Customization.Props
+- AssemblyName: Assembly-CSharp
+  ClassName: Customization.ShirtClr
+- AssemblyName: Assembly-CSharp
+  ClassName: Customization.ShoesClr
+- AssemblyName: Assembly-CSharp
+  ClassName: Customization.SkinClr
 - AssemblyName: Assembly-CSharp
   ClassName: HeadShop
 - AssemblyName: Assembly-CSharp
@@ -186,9 +200,7 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.TextCoreFontEngineModule
   ClassName: UnityEngine.TextCore.GlyphRect
 - AssemblyName: UnityEngine.UI
-  ClassName: UnityEngine.UI.FontData
-- AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
-- Assets/WebglChanges/Levels/Level7.prefab
+- Assets/WebglChanges/Levels/SpeedRunLevel.prefab
 Dependencies: []

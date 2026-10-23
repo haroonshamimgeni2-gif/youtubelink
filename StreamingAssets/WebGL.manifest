@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2213904216
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: level_2
+      Dependencies: {}
+    Info_1:
+      Name: level_3
+      Dependencies: {}
+    Info_2:
+      Name: level_4_5
+      Dependencies: {}
+    Info_3:
+      Name: legendofspeedscene
+      Dependencies: {}
+    Info_4:
+      Name: obbyscene
+      Dependencies: {}
+    Info_5:
+      Name: level_18_20
+      Dependencies: {}
+    Info_6:
+      Name: level_6_7
+      Dependencies: {}
+    Info_7:
+      Name: level_12_13
+      Dependencies: {}
+    Info_8:
+      Name: level_14_15
+      Dependencies: {}
+    Info_9:
+      Name: level_8_9
+      Dependencies: {}
+    Info_10:
+      Name: level_16_17
+      Dependencies: {}
+    Info_11:
+      Name: level_10_11
+      Dependencies: {}

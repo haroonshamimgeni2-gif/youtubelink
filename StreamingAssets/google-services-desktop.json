@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "831540058127",
-    "project_id": "new-superhero-escape",
-    "storage_bucket": "new-superhero-escape.firebasestorage.app"
+    "project_number": "785227113938",
+    "project_id": "xtreme-stunts-bike-racer",
+    "storage_bucket": "xtreme-stunts-bike-racer.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:831540058127:android:9583ed14071d9e60846b7a",
+        "mobilesdk_app_id": "1:785227113938:android:02a439f3b326a1a3f9940b",
         "android_client_info": {
-          "package_name": "com.genigames.prison.girl.escape.superhero"
+          "package_name": "com.genigames.biker.xtreme.stunt.racer"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCGDhjKgotMtCb98Qaho6_b9MAm4wrYcvs"
+          "current_key": "AIzaSyCTzbTXadXHJ_ssWm0M8ZN3GZaUAshhXaw"
         }
       ],
       "services": {
